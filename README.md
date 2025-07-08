@@ -1,5 +1,6 @@
 # Mimic-iii-Data-visualization
-Python Notebook for visual exploratory data analysis on a healthcare dataset using Matplotlib and Seaborn. Includes univariate, bivariate, and correlation visualizations to extract insights from clinical data.
+Databricks Notebook for visual exploratory data analysis on a healthcare dataset using Matplotlib and Seaborn. Includes univariate, bivariate, and correlation visualizations to extract insights from clinical data.
+
 # Data Visualization on Healthcare Dataset
 
 This project contains a Python Notebook that performs visual exploratory data analysis (EDA) on a healthcare dataset. The goal is to uncover insights from patient-level data using various statistical plots and visual summaries.
@@ -32,8 +33,9 @@ This project contains a Python Notebook that performs visual exploratory data an
 - Data visualization1.ipynb # Main notebook
 - README.md # Project description
 
-## How to Run
 
+## How to Run
+-Run this in databricks
 Clone this repository:
    ```bash
    git clone https://github.com/sathwikreddy300Mimic-iii-Data-visualization.git
